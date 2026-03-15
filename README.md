@@ -1,2 +1,2 @@
 # bgoconnor.github.io
-Testing github page
+Personal site. Temporary home for papers while a more complete website is in progress.
